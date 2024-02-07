@@ -6,3 +6,6 @@ A: 40000 kg
 
 Q: How much does apple cost
 A: 30.00 euro/kg
+
+Q: What temperature is the sun
+A: -20C
