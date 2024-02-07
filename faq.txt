@@ -1,0 +1,8 @@
+Q: What is the color of a moomin
+A: Pink
+
+Q: How heavy is the car
+A: 40000 kg
+
+Q: How much does apple cost
+A: 30.00 euro/kg

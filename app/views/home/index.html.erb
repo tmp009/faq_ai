@@ -1,0 +1,16 @@
+<h1>FAQ AI</h1>
+
+<%= form_with(url: "/question", method: "post") do |form| %>
+  <div class="field">
+    <%= form.label "Ask me anything: " %>
+    <%= form.text_field :prompt %>
+  </div>
+
+  <br>
+
+  <div class="actions">
+    <%= form.submit 'Submit' %>
+  </div>
+<% end %>
+
+<p>Response: <%= flash[:response] %> </p>
